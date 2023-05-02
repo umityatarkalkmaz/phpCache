@@ -1,4 +1,4 @@
-#Basic cache data class
+# Basic cache data class
 Converts data to json format and saves it to a file
 ## Dependence
 This class using my string helper class. [My string helper class](https://github.com/umityatarkalkmaz/phpStringHelper) is here.
